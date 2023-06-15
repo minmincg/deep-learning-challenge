@@ -1,4 +1,4 @@
-# deep-learning-challenge
+# deep-learning-challenge ALPHABET-SOUP (first try) (COPY OF ALPHABET SOUP: 2,3,4 try to get better training)
 ## 1. Overview :
 The purpose for this analysis is to help the nonprofit foundation “Alphabet Soup” and provide them a tool that can help it select the applicants for funding with the best chance of success in their ventures. We used machine learning and neural networks, to predict whether applicants will be successful if funded by Alphabet Soup.
 We received a CSV provided by the Alphabet Soup’s business team, containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. 
